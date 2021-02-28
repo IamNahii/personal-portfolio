@@ -7,6 +7,7 @@
     width: 70%;
     margin: 0 auto;
     padding-bottom: 80px;
+    overflow: hidden;
 }
 nav ul{
     margin-top: 20px;
@@ -58,6 +59,7 @@ h2{
 }
 h3{
     margin-top: 120px;
+    margin-bottom: 15px;
     text-transform: uppercase;
     font-style: normal;
     font-weight: bold;
@@ -83,4 +85,35 @@ p{
     display: inline-block;
     margin-top: 10px;
     font-weight: 700;
+}
+.project-area h3{
+    text-align: center;
+    padding: 80px;
+}
+.orange-color{
+    color: #F46060;
+}
+.gallery-width{
+    float: left;
+    padding: 5px;
+    width: 30%;
+    margin-right: 2%;
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+}
+.gallery-width h4{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 18px;
+    color: #363958;
+    padding: 8px;
+}
+.gallery-width p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6C6C6C;
 }
