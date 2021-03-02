@@ -117,3 +117,49 @@ p{
     line-height: 24px;
     color: #6C6C6C;
 }
+.work-area{
+    background-image: url("images/work.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 60%;
+    padding: 80px;
+    margin: 0 auto; 
+    overflow: hidden;
+    
+}
+.work-area h1{
+    color: #fff;
+    float: left;
+    margin-right: 50px;
+}
+.work-area a{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.footer-section p{
+    text-transform: uppercase;
+    font-size: 22px;
+    line-height: 20px;
+    color: #696871;
+    text-align: center;
+}
+.footer-section h4{
+    padding: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #363958;
+    text-align: center;
+}
+.footer-section .icon{
+    width: 250px;
+    margin: auto;
+}
+.footer-section .icon img{
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding: 20px;
+}
